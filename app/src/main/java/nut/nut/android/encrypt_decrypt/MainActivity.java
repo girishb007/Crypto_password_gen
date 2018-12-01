@@ -1,4 +1,4 @@
-package com.example.android.encrypt_decrypt;
+package nut.nut.android.encrypt_decrypt;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -10,7 +10,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
